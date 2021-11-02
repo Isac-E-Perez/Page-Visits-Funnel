@@ -48,3 +48,18 @@ All four data frames have the same *user_id* data, therefore we took advantage o
 Producing the following results,
  
 ![Screen Shot 2021-11-02 at 6 04 17 PM](https://user-images.githubusercontent.com/89553126/139964093-7462734d-e21c-4c86-8bbd-f0c06251aab5.png)
+
+I am now curious on how many users were on the site but did not head to checkout. Therefore I defined the total visits,
+
+![Screen Shot 2021-11-02 at 6 13 22 PM](https://user-images.githubusercontent.com/89553126/139964767-b8cf46ec-d5b5-48ea-b288-e398ad0ad09d.png)
+
+where the output was ![Screen Shot 2021-11-02 at 6 13 30 PM](https://user-images.githubusercontent.com/89553126/139964826-c46aa9bf-8f41-4e0b-96cf-b5f9544744ed.png).
+
+Afterwards, I defined the total number of vists where the users did not go to the cart,
+
+![Screen Shot 2021-11-02 at 6 13 51 PM](https://user-images.githubusercontent.com/89553126/139964940-43552c85-b7d2-46ed-bbfe-7ed5293bb263.png)
+
+where the output was ![Screen Shot 2021-11-02 at 6 13 58 PM](https://user-images.githubusercontent.com/89553126/139964955-f10b8244-ef54-4378-adad-62f49956ade4.png). 
+
+ 
+
