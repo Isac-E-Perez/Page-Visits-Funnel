@@ -70,6 +70,7 @@ So the percentage of users that did not go to checkout was,
 ![Screen Shot 2021-11-02 at 6 20 35 PM](https://user-images.githubusercontent.com/89553126/139965157-6aea25ec-558b-482a-bc02-6868b4ca49ff.png)
 
 Now I want to define the *cart_checkout* variable, 
+
 ![Screen Shot 2021-11-02 at 6 22 02 PM](https://user-images.githubusercontent.com/89553126/139965613-1c5e6624-b903-4ba5-8840-be6740d30624.png)
 
 Getting the following product, 
