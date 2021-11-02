@@ -61,5 +61,10 @@ Afterwards, I defined the total number of vists where the users did not go to th
 
 where the output was ![Screen Shot 2021-11-02 at 6 13 58 PM](https://user-images.githubusercontent.com/89553126/139964955-f10b8244-ef54-4378-adad-62f49956ade4.png). 
 
- 
+Therefore, I learned that only 348 users out of 2000 ended up going to the checkout part of the website with an item. 
 
+So the percentage of users that did not go to checkout was, 
+
+![Screen Shot 2021-11-02 at 6 20 27 PM](https://user-images.githubusercontent.com/89553126/139965149-7393d1de-0c21-4fb0-a97e-c37921662929.png)
+ 
+![Screen Shot 2021-11-02 at 6 20 35 PM](https://user-images.githubusercontent.com/89553126/139965157-6aea25ec-558b-482a-bc02-6868b4ca49ff.png)
