@@ -15,7 +15,7 @@ This data comes from CoolTShirts.com
  
 ### Results:
 
-The goal of this project is to learn how much time, on average, a user takes to purchase an item on the website.
+The goal of this project is to learn user interaction with items on the website.
 
 I first loaded the data files onto RStudio.
 
