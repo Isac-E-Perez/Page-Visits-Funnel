@@ -49,13 +49,13 @@ Producing the following results,
  
 ![Screen Shot 2021-11-02 at 6 04 17 PM](https://user-images.githubusercontent.com/89553126/139964093-7462734d-e21c-4c86-8bbd-f0c06251aab5.png)
 
-I am now curious on how many users were on the site but did not head to checkout. Therefore I defined the total visits,
+I am now curious on how many users were on the site, but did not head to checkout with an item. Therefore, I defined the total visits on the site,
 
 ![Screen Shot 2021-11-02 at 6 13 22 PM](https://user-images.githubusercontent.com/89553126/139964767-b8cf46ec-d5b5-48ea-b288-e398ad0ad09d.png)
 
 where the output was ![Screen Shot 2021-11-02 at 6 13 30 PM](https://user-images.githubusercontent.com/89553126/139964826-c46aa9bf-8f41-4e0b-96cf-b5f9544744ed.png).
 
-Afterwards, I defined the total number of vists where the users did not go to the cart,
+Afterwards, I defined the total number of vists where the users did not go to the cart with an item,
 
 ![Screen Shot 2021-11-02 at 6 13 51 PM](https://user-images.githubusercontent.com/89553126/139964940-43552c85-b7d2-46ed-bbfe-7ed5293bb263.png)
 
