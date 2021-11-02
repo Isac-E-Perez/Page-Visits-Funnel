@@ -36,7 +36,6 @@ purchase$...1 <- NULL
 visit_cart <- visits %>%
 left_join(cart)
  
-
 # visit_cart <- left_join(visits, cart, by = c('user_id' = 'user_id'))
 
 visit_cart
