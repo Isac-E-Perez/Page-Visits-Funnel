@@ -26,12 +26,20 @@ head(purchase)
 ```
 
 ```{r error=TRUE}
+# remove the number column:
+visits$...1 <- NULL
+cart$...1 <- NULL
+checkout$...1 <- NULL
+purchase$...1 <- NULL
+
 # define visits_cart here:
-
-visit_cart <- visits %>% 
+visit_cart <- visits %>%
 left_join(cart)
+ 
 
- visit_cart
+# visit_cart <- left_join(visits, cart, by = c('user_id' = 'user_id'))
+
+visit_cart
 ```
 
 ```{r error=TRUE}
