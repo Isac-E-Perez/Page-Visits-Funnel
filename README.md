@@ -41,7 +41,7 @@ Afterwards, I inspected the data frames to see what kind of data I had to analyz
 
 ![Screen Shot 2021-11-02 at 5 54 10 PM](https://user-images.githubusercontent.com/89553126/139962884-141731c4-b30e-4a04-b3a2-5657b3469a06.png)
 
-I decided to remove the number column becuase it impacted the *left_join* function. The resulting would be NA for the *cart_time* column. In order to fix this, I removed the number column with *NULL*. The *left_join* is joining by *user_id*.
+All four data frames have the same *user_id* data, therefore we took advantage of this with the *left_join* function. The *left_join* is joined by *user_id*. I decided to remove the number column because it impacted the *left_join* function. The resulting would be **NA** for the *cart_time* column. In order to fix this, I removed the number column with **NULL**.  
 
 ![Screen Shot 2021-11-02 at 6 03 58 PM](https://user-images.githubusercontent.com/89553126/139964031-8042a343-ddfc-4886-8eff-8e1249da4e2e.png)
 
