@@ -69,7 +69,7 @@ So the percentage of users that did not go to checkout was,
  
 ![Screen Shot 2021-11-02 at 6 20 35 PM](https://user-images.githubusercontent.com/89553126/139965157-6aea25ec-558b-482a-bc02-6868b4ca49ff.png)
 
-Now I want to define the *cart_checkout* variable, 
+Now I want to know the percentage of users that had items in the cart yet did not checkout. Therefore, I defined the *cart_checkout* variable, 
 
 ![Screen Shot 2021-11-02 at 6 22 02 PM](https://user-images.githubusercontent.com/89553126/139965613-1c5e6624-b903-4ba5-8840-be6740d30624.png)
 
@@ -77,4 +77,8 @@ Getting the following product,
 
 ![Screen Shot 2021-11-02 at 6 23 00 PM](https://user-images.githubusercontent.com/89553126/139965616-817da85e-8fe5-412d-bfa8-578b48237c11.png)
 
- 
+Afterwards, I defined the *total_cart*.
+
+![Screen Shot 2021-11-04 at 7 46 56 PM](https://user-images.githubusercontent.com/89553126/140440030-606d8656-32ca-483f-84a0-ecb2f5cdbabf.png)
+
+where the output was ![Screen Shot 2021-11-04 at 7 47 11 PM](https://user-images.githubusercontent.com/89553126/140440038-72d2ce09-972e-474b-8284-ba2aa6c7f787.png).
