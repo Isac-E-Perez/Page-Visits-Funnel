@@ -94,3 +94,13 @@ So the percentage of users that had items in the cart but did not checkout was,
 ![Screen Shot 2021-11-04 at 7 57 01 PM](https://user-images.githubusercontent.com/89553126/140440729-c9ec97c7-be3a-41cb-a6c5-86be9e317778.png)
 
 ![Screen Shot 2021-11-04 at 7 57 15 PM](https://user-images.githubusercontent.com/89553126/140440742-02fb7909-108b-440b-a1f1-f86f5a42cad9.png)
+
+Then I defined all the data here,
+
+![Screen Shot 2021-11-04 at 8 38 11 PM](https://user-images.githubusercontent.com/89553126/140443810-c6dc6485-d648-4498-9b79-e8def20ce2e8.png)
+
+Resulting in, 
+
+![Screen Shot 2021-11-04 at 8 38 26 PM](https://user-images.githubusercontent.com/89553126/140443833-a761459b-e01d-4b80-947f-667f161cc2f4.png)
+
+![Screen Shot 2021-11-04 at 8 38 31 PM](https://user-images.githubusercontent.com/89553126/140443839-97241a0e-6c44-4f7d-b9b2-d47f74ec8821.png)
