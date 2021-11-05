@@ -104,3 +104,15 @@ Resulting in,
 ![Screen Shot 2021-11-04 at 8 38 26 PM](https://user-images.githubusercontent.com/89553126/140443833-a761459b-e01d-4b80-947f-667f161cc2f4.png)
 
 ![Screen Shot 2021-11-04 at 8 38 31 PM](https://user-images.githubusercontent.com/89553126/140443839-97241a0e-6c44-4f7d-b9b2-d47f74ec8821.png)
+
+Now I want to know the percentage of users that checkout with an item but did not purchase the item. 
+
+First, I defined the total number of checkouts,
+ 
+![Screen Shot 2021-11-04 at 8 40 19 PM](https://user-images.githubusercontent.com/89553126/140444095-088bc25a-bf6b-47ec-aa01-57ca39ef3176.png)
+
+Afterwards, I defined the number of checkouts without purchases,
+ 
+![Screen Shot 2021-11-04 at 8 40 31 PM](https://user-images.githubusercontent.com/89553126/140444145-9aa35ff2-b34f-4ce5-9f93-08caef593c33.png)
+
+The results were ![Screen Shot 2021-11-04 at 8 40 43 PM](https://user-images.githubusercontent.com/89553126/140444170-10247033-769a-4e24-a40e-d8a9ab3306f1.png).
