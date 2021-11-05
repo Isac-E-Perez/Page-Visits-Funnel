@@ -116,3 +116,9 @@ Afterwards, I defined the number of checkouts without purchases,
 ![Screen Shot 2021-11-04 at 8 40 31 PM](https://user-images.githubusercontent.com/89553126/140444145-9aa35ff2-b34f-4ce5-9f93-08caef593c33.png)
 
 The results were ![Screen Shot 2021-11-04 at 8 40 43 PM](https://user-images.githubusercontent.com/89553126/140444170-10247033-769a-4e24-a40e-d8a9ab3306f1.png).
+
+Finally, I can calculate the percentage,
+
+![Screen Shot 2021-11-04 at 8 44 07 PM](https://user-images.githubusercontent.com/89553126/140444282-34a2d560-f1d4-4916-b9b5-8e83fdd673cf.png)
+
+![Screen Shot 2021-11-04 at 8 44 07 PM](https://user-images.githubusercontent.com/89553126/140444286-b3c947fd-f117-450d-af63-829cb395c3a6.png)
