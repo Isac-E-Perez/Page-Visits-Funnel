@@ -82,3 +82,15 @@ Afterwards, I defined the *total_cart*.
 ![Screen Shot 2021-11-04 at 7 46 56 PM](https://user-images.githubusercontent.com/89553126/140440030-606d8656-32ca-483f-84a0-ecb2f5cdbabf.png)
 
 where the output was ![Screen Shot 2021-11-04 at 7 47 11 PM](https://user-images.githubusercontent.com/89553126/140440038-72d2ce09-972e-474b-8284-ba2aa6c7f787.png).
+
+I define the *cart_no_checkout* number here,
+
+![Screen Shot 2021-11-04 at 7 56 37 PM](https://user-images.githubusercontent.com/89553126/140440695-8370f8a0-7732-486f-83b3-3f16e19170c5.png)
+
+![Screen Shot 2021-11-04 at 7 56 52 PM](https://user-images.githubusercontent.com/89553126/140440714-f3360391-551e-4710-836f-f5a0215c6d5d.png)
+
+So the percentage of users that had items in the cart but did not checkout was,
+
+![Screen Shot 2021-11-04 at 7 57 01 PM](https://user-images.githubusercontent.com/89553126/140440729-c9ec97c7-be3a-41cb-a6c5-86be9e317778.png)
+
+![Screen Shot 2021-11-04 at 7 57 15 PM](https://user-images.githubusercontent.com/89553126/140440742-02fb7909-108b-440b-a1f1-f86f5a42cad9.png)
