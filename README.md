@@ -122,3 +122,18 @@ Finally, I can calculate the percentage,
 ![Screen Shot 2021-11-04 at 8 43 52 PM](https://user-images.githubusercontent.com/89553126/140444322-a4de6db3-56c2-438f-bf62-f42c026be94b.png)
  
 ![Screen Shot 2021-11-04 at 8 44 07 PM](https://user-images.githubusercontent.com/89553126/140444286-b3c947fd-f117-450d-af63-829cb395c3a6.png)
+
+Now I want to the time to purchase by each user,
+![Screen Shot 2021-11-04 at 8 46 31 PM](https://user-images.githubusercontent.com/89553126/140444517-e685d5c2-5542-47ad-8a33-fa7e96865b12.png)
+
+![Screen Shot 2021-11-04 at 8 46 40 PM](https://user-images.githubusercontent.com/89553126/140444522-87468ef3-806a-498a-ae1f-d16e375397b2.png)
+
+![Screen Shot 2021-11-04 at 8 46 54 PM](https://user-images.githubusercontent.com/89553126/140444527-79d40d82-faf0-413e-91ef-c7c2dac04dac.png)
+
+Finally, I can get the average time to purchase an item by the user on the site,
+ 
+![Screen Shot 2021-11-04 at 8 47 58 PM](https://user-images.githubusercontent.com/89553126/140444625-b54adaed-ecea-436b-8a12-ffb34dd31542.png)
+
+![Screen Shot 2021-11-04 at 8 48 10 PM](https://user-images.githubusercontent.com/89553126/140444630-7944a82c-c14a-43b8-a26e-8dce48e207b5.png)
+
+In conclusion, I has able to analyze and extract a lot of information about how users behave with the interface and the items for purchase with the data given.
