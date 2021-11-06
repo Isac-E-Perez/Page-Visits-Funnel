@@ -136,4 +136,4 @@ Finally, I can get the average time to purchase an item by the user on the site,
 
 ![Screen Shot 2021-11-04 at 8 48 10 PM](https://user-images.githubusercontent.com/89553126/140444630-7944a82c-c14a-43b8-a26e-8dce48e207b5.png)
 
-In conclusion, I has able to analyze and extract a lot of information about how users behave, with both the interface and the items for purchase, with the data given.
+In conclusion, I was able to analyze and extract a lot of information about how users behave, with both the interface and the items for purchase, with the data given.
